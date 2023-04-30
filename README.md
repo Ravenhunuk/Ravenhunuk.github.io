@@ -1,2 +1,1 @@
-# Ravenhunuk.github.io
-Krisztian Homoki vizsga munkaja
+# Krisztian-s-vizsga-munkaja
